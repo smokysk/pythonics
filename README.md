@@ -1,2 +1,2 @@
 # pythonics
-studies of python
+studies of python, To became a pentest
