@@ -1,0 +1,2 @@
+# pythonics
+studies of python
